@@ -1,6 +1,8 @@
 # Smart-IoT-Window-Kit
 창문 자동 개폐 키트 및 제어 어플리케이션
 
+### 시연 동영상 : https://drive.google.com/file/d/1v8YXTn_f-tUS36YzdTSHw1Mjcs2zF3Vs/view?usp=sharing 
+
 <br>
 
 ![슬라이드7](https://user-images.githubusercontent.com/43925006/155851244-9d183ee8-e393-4101-8208-e8932a090cff.JPG)
